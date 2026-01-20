@@ -56,13 +56,13 @@ This dashboard allows users to **monitor live weather conditions**, **forecast t
 ---
 
 ## 💡 Key Insights (From Current Dashboard Data)
-- **🌤 Current Conditions** – Ajmer is partly cloudy with a temperature of **29.9°C** and **58% humidity**.  
-- **💨 Wind & Pressure** – Winds are strong at **25.6 km/h**, with pressure at **29.69 inHg**.  
-- **🌧 Rain Probability** – Highest rain chance mid-week: **Wednesday (86%)** and **Saturday (85%)**; otherwise mostly dry.  
-- **🌡 Forecast Trend** – Temperatures peak at **29.3°C** on Friday, then drop sharply to **25.9°C** by Sunday.  
-- **🌫 Air Quality** – AQI (PM10) is **36.63 – Good**, safe for all groups; however, **CO levels (257.15)** are elevated and worth monitoring.  
-- **☀ Daylight** – Sunrise at **05:59 AM**, sunset at **07:12 PM**, providing ~13 hours of daylight.  
-- **🕶 UV Index** – High at **10.70**, suggesting sun protection measures during peak hours.  
+- **🌤 Current Conditions** – Ajmer is partly cloudy with a temperature of **31°C** and **53% humidity**.  
+- **💨 Wind & Pressure** – Winds are strong at **11.2 km/h**, with pressure at **29.55 inHg**.  
+- **🌧 Rain Probability** – Highest rain chance mid-week: **Wednesday (100%)** and **Thursday (89%)**;  
+- **🌡 Forecast Trend** – Temperatures peak at **29.7°C** on Sunday, then drops to **28°C** by Teusday.  
+- **🌫 Air Quality** – AQI (PM10) is **69.19 – Moderate**, acceptable air quality; however, **CO levels (251.60)** are elevated and worth monitoring.  
+- **☀ Daylight** – Sunrise at **06:03 AM**, sunset at **07:04 PM**, providing ~13 hours of daylight.  
+- **🕶 UV Index** –  Very Low at **00.50**, safe for outdoor activities with minimal sun protection needed.
 
 ---
 
