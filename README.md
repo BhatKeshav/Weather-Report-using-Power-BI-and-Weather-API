@@ -95,7 +95,7 @@ This dashboard allows users to **monitor live weather conditions**, **forecast t
 ---
 
 ## 📬 Connect With Me
-**Name:** Dolly Gupta  
+**Name:** K Keshava Bhat  
 **Email:** [kkeshavabhat111@gmail.com](mailto:kkeshavabhat111@gmail.com)  
 **LinkedIn:** [linkedin.com/in/kkeshavabhat1110/](https://www.linkedin.com/in/kkeshavabhat1110/)  
 
